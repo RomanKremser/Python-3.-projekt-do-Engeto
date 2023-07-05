@@ -26,7 +26,7 @@ voliči v seznamu: Počet voličů v seznamu.
 vydané obálky: Počet vydaných obálek.
 platné hlasy: Počet platných hlasů.
 kandidující strany: Počet hlasů pro jednotlivé kandidující strany.
-Ukázka obsahu výstupního souboru vysledky.csv:
+Ukázka obsahu výstupního souboru vysledky-Opava.csv:
 code,location,registered,envelopes,valid,Občanská demokratická strana,Řád národa - Vlastenecká unie,CESTA ODPOVĚDNÉ SPOLEČNOSTI,Česká str.sociálně demokrat.,Radostné Česko,STAROSTOVÉ A NEZÁVISLÍ,Komunistická str.Čech a Moravy,Strana zelených,"ROZUMNÍ-stop migraci,diktát.EU",Strana svobodných občanů,Blok proti islam.-Obran.domova,Občanská demokratická aliance,Česká pirátská strana,Česká národní fronta,Referendum o Evropské unii,TOP 09,ANO 2011,Dobrá volba 2016,SPR-Republ.str.Čsl. M.Sládka,Křesť.demokr.unie-Čs.str.lid.,Česká strana národně sociální,REALISTÉ,SPORTOVCI,Dělnic.str.sociální spravedl.,Svob.a př.dem.-T.Okamura (SPD),Strana Práv Občanů
 512974,Bělá,559,379,375,22,0,0,27,1,9,15,3,8,5,1,1,18,0,1,15,150,0,1,30,0,3,0,1,63,1
 506192,Bohuslavice,1 380,908,905,48,3,1,48,0,20,32,3,6,9,1,2,82,0,1,47,349,0,0,141,0,3,1,0,106,2bce, název obce, voliči v seznamu, vydané obálky, platné hlasy, 
