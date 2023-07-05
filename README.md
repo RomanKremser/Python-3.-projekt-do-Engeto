@@ -14,7 +14,7 @@ shell
 volby-env\Scripts\activate
 Nainstalujte potřebné knihovny ze souboru requirements.txt:
 shell
-Copy code
+
 pip install -r requirements.txt
 Soubor volby.py musí být spuštěn s dvěma argumenty:
 Odkaz na územní celek, který chcete scrapovat. Například: https://www.volby.cz/pls/ps2017nss/ps31?xjazyk=CZ&xkraj=14&xnumnuts=8105
