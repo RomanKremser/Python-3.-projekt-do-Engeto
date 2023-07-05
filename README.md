@@ -13,9 +13,9 @@ Windows:
 shell
 volby-env\Scripts\activate
 Nainstalujte potřebné knihovny ze souboru requirements.txt:
-Příkaz pro instalaci je pip install requests a pip install 
+Příkaz pro instalaci je pip install requests
 pip install beautifulsoup4
-Ostatní knihovny jsou dobrovolné.
+Pro fungování scraperu jsou potřebné ještě knihovny sys a CSV, tyto knihovny nevyžadují instalaci.
 Soubor volby.py musí být spuštěn s dvěma argumenty:
 Odkaz na územní celek, který chcete scrapovat. Například: https://www.volby.cz/pls/ps2017nss/ps31?xjazyk=CZ&xkraj=14&xnumnuts=8105
 Jméno výstupního souboru, do kterého budou uloženy výsledky. Například: vysledky.csv
