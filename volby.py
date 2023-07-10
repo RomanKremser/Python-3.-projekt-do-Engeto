@@ -1,3 +1,6 @@
+#Autor: Roman Kremser
+#Email: rkremser@seznam.cz
+#Discord: chimera #+9734
 import sys
 import csv
 import requests
